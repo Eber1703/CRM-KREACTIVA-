@@ -1,5 +1,0 @@
-streamlit
-textblob
-pandas
-streamlit-authenticator
-pyyaml
